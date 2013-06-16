@@ -8,3 +8,12 @@ For app-user requests access tokens should be provided.
 Twitter oauth: https://dev.twitter.com/docs/auth/oauth
 
 Needs oauth2 library: https://github.com/brosner/python-oauth2
+
+Installation instructions:
+--------------------------
+1. git clone https://github.com/brosner/python-oauth2
+2. install oauth2
+3. git clone https://github.com/vandanab/ata.git
+4. install ata
+
+
