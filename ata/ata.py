@@ -5,7 +5,7 @@ Created on Jun 14, 2013
 ATA is a helper to access twitter REST api.
 With the new twitter authentication model in place,
 ATA can help you make twitter API calls easily.
-One needs to create an instance of ata.Main for every new application.
+One needs to create an instance of Main class for every new application.
 It supports both app-user and app-only, authentication based requests
 For app-user requests access tokens should be provided.
 Needs oauth2 library: https://github.com/brosner/python-oauth2
