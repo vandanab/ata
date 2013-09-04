@@ -12,8 +12,8 @@ Needs oauth2 library: https://github.com/brosner/python-oauth2
 Installation instructions:
 --------------------------
 1. git clone https://github.com/brosner/python-oauth2
-2. install oauth2
+2. install oauth2 (from oauth2 directory run command, python setup.py install)
 3. git clone https://github.com/vandanab/ata.git
-4. install ata
+4. install ata (from ata directory run command, python setup.py install)
 
 
